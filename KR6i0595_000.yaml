@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0595/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘四法經釋抄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2784.xml
+    old_id: T85n2784
+hash: sha256:9db97b55b5cffe73c305b07714f09745e9acfad594a2a72567836e6194760862
